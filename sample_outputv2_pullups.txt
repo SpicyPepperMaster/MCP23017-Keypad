@@ -1,0 +1,111 @@
+>>> %Run -c $EDITOR_CONTENT
+
+MPY: soft reboot
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 9: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 10: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
+Row 1: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 2: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 3: Col1=True, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 4: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 5: Col1=False, Col2=True, Col3=False, Col4=False, Col5=False, Col6=False
+Row 6: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 7: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+Row 8: Col1=False, Col2=False, Col3=False, Col4=False, Col5=False, Col6=False
+
